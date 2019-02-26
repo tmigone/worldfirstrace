@@ -4,11 +4,11 @@
         "raid": {
             "name": "Onyxia's Lair",
             "date": "November 23, 2004",
-            "boss": "Onyxia",
             "type": "Normal",
             "players": 40
         },
         "kill": {
+            "boss": "Onyxia",
             "guild": "The Chosen",
             "region": "KR",
             "date": "January 28, 2005",
@@ -20,11 +20,11 @@
         "raid": {
             "name": "Molten Core",
             "date": "November 23, 2004",
-            "boss": "Ragnaros",
             "type": "Normal",
             "players": 40
         },
         "kill": {
+            "boss": "Ragnaros",
             "guild": "Ascent",
             "region": "US",
             "date": "April 25, 2005",
@@ -36,11 +36,11 @@
         "raid": {
             "name": "Blackwing Lair",
             "date": "July 12, 2005",
-            "boss": "Nefarian",
             "type": "Normal",
             "players": 40
         },
         "kill": {
+            "boss": "Nefarian",
             "guild": "Drama",
             "region": "US",
             "date": "September 26, 2005",
@@ -52,11 +52,11 @@
         "raid": {
             "name": "The Temple of Ahn'Qiraj",
             "date": "January 3, 2006",
-            "boss": "C'thun",
             "type": "Normal",
             "players": 40
         },
         "kill": {
+            "boss": "C'thun",
             "guild": "Nihilum",
             "region": "EU",
             "date": "April 25, 2006",
@@ -68,11 +68,11 @@
         "raid": {
             "name": "Naxxramas",
             "date": "June 20, 2006",
-            "boss": "Kel'thuzad",
             "type": "Normal",
             "players": 40
         },
         "kill": {
+            "boss": "Kel'thuzad",
             "guild": "Nihilum",
             "region": "EU",
             "date": "September 7, 2006",
@@ -84,11 +84,11 @@
         "raid": {
             "name": "Gruul's Lair",
             "date": "January 16, 2007",
-            "boss": "Gruul",
             "type": "Normal",
             "players": 25
         },
         "kill": {
+            "boss": "Gruul",
             "guild": "Nihilum",
             "region": "EU",
             "date": "February 3, 2007",
@@ -100,11 +100,11 @@
         "raid": {
             "name": "Magtheridon's Lair",
             "date": "January 16, 2007",
-            "boss": "Magtheridon",
             "type": "Normal",
             "players": 25
         },
         "kill": {
+            "boss": "Magtheridon",
             "guild": "Nihilum",
             "region": "EU",
             "date": "February 24, 2007",
@@ -116,11 +116,11 @@
         "raid": {
             "name": "Serpentshrine Cavern",
             "date": "January 16, 2007",
-            "boss": "Magtheridon",
             "type": "Normal",
             "players": 25
         },
         "kill": {
+            "boss": "Lady Vashj",
             "guild": "Nihilum",
             "region": "EU",
             "date": "March 29, 2007",
@@ -132,11 +132,11 @@
         "raid": {
             "name": "Tempest Keep: The Eye",
             "date": "January 16, 2007",
-            "boss": "Kael'Thas",
             "type": "Normal",
             "players": 25
         },
         "kill": {
+            "boss": "Kael'Thas",
             "guild": "Nihilum",
             "region": "EU",
             "date": "May 25, 2007",
@@ -148,11 +148,11 @@
         "raid": {
             "name": "Battle for Mount Hyjal",
             "date": "May 22, 2007",
-            "boss": "Archimonde",
             "type": "Normal",
             "players": 25
         },
         "kill": {
+            "boss": "Archimonde",
             "guild": "Nihilum",
             "region": "EU",
             "date": "June 9, 2007",
@@ -164,11 +164,11 @@
         "raid": {
             "name": "Black Temple",
             "date": "May 22, 2007",
-            "boss": "Illidan Stormrage",
             "type": "Normal",
             "players": 25
         },
         "kill": {
+            "boss": "Illidan Stormrage",
             "guild": "Nihilum",
             "region": "EU",
             "date": "June 5, 2007",
@@ -180,11 +180,11 @@
         "raid": {
             "name": "Sunwell Plateau",
             "date": "March 25, 2008",
-            "boss": "Kil'jaeden",
             "type": "Normal",
             "players": 25
         },
         "kill": {
+            "boss": "Kil'jaeden",
             "guild": "SK Gaming",
             "region": "EU",
             "date": "May 25, 2008",
@@ -196,11 +196,11 @@
         "raid": {
             "name": "Naxxramas",
             "date": "November 13, 2008",
-            "boss": "Kel'thuzad",
             "type": "Normal",
             "players": 25
         },
         "kill": {
+            "boss": "Kel'thuzad",
             "guild": "Ensidia",
             "region": "EU",
             "date": "November 15, 2008",
@@ -212,11 +212,11 @@
         "raid": {
             "name": "Obsidian Sanctum",
             "date": "November 13, 2008",
-            "boss": "Sartharion",
             "type": "Hardmode",
             "players": 25
         },
         "kill": {
+            "boss": "Sartharion",
             "guild": "Ensidia",
             "region": "EU",
             "date": "November 21, 2008",
@@ -228,11 +228,11 @@
         "raid": {
             "name": "Eye of Eternity",
             "date": "November 13, 2008",
-            "boss": "Malygos",
             "type": "Normal",
             "players": 25
         },
         "kill": {
+            "boss": "Malygos",
             "guild": "Ensidia",
             "region": "EU",
             "date": "November 15, 2008",
@@ -244,11 +244,11 @@
         "raid": {
             "name": "Ulduar",
             "date": "April 14, 2009",
-            "boss": "Yogg-Saron +0",
             "type": "Hardmode",
             "players": 25
         },
         "kill": {
+            "boss": "Yogg-Saron +0",
             "guild": "Stars",
             "region": "TW",
             "date": "July 7, 2009",
@@ -260,11 +260,11 @@
         "raid": {
             "name": "Trial of the Grand Crusader",
             "date": "August 4, 2009",
-            "boss": "Anub'arak",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Anub'arak",
             "guild": "Paragon",
             "region": "EU",
             "date": "September 7, 2009",
@@ -276,11 +276,11 @@
         "raid": {
             "name": "Icecrown Citadel",
             "date": "December 8, 2009",
-            "boss": "The Lich King",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "The Lich King",
             "guild": "Paragon",
             "region": "EU",
             "date": "March 26, 2010",
@@ -292,11 +292,11 @@
         "raid": {
             "name": "Ruby Sanctum",
             "date": "June 30, 2010",
-            "boss": "Halion",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Halion",
             "guild": "Premonition",
             "region": "US",
             "date": "June 30, 2010",
@@ -308,11 +308,11 @@
         "raid": {
             "name": "Blackwing Descent",
             "date": "December 7, 2010",
-            "boss": "Nefarian",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Nefarian",
             "guild": "Paragon",
             "region": "EU",
             "date": "January 9, 2011",
@@ -324,11 +324,11 @@
         "raid": {
             "name": "Bastion of Twilight",
             "date": "December 7, 2010",
-            "boss": "Sinestra",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Sinestra",
             "guild": "Paragon",
             "region": "EU",
             "date": "January 20, 2011",
@@ -340,11 +340,11 @@
         "raid": {
             "name": "Throne of the Four Winds",
             "date": "December 7, 2010",
-            "boss": "Al'Akir",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Al'Akir",
             "guild": "Paragon",
             "region": "EU",
             "date": "January 24, 2011",
@@ -356,11 +356,11 @@
         "raid": {
             "name": "Firelands",
             "date": "June 28, 2011",
-            "boss": "Ragnaros",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Ragnaros",
             "guild": "Paragon",
             "region": "EU",
             "date": "July 19, 2011",
@@ -372,11 +372,11 @@
         "raid": {
             "name": "Dragon Soul",
             "date": "November 29, 2011",
-            "boss": "Madness of Deathwing",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Madness of Deathwing",
             "guild": "KIN Raiders",
             "region": "KR",
             "date": "December 20, 2011",
@@ -388,11 +388,11 @@
         "raid": {
             "name": "Mogu'shan Vaults",
             "date": "October 2, 2012",
-            "boss": "Will of the Emperor",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Will of the Emperor",
             "guild": "Method",
             "region": "EU",
             "date": "October 10, 2012",
@@ -404,11 +404,11 @@
         "raid": {
             "name": "Heart of Fear",
             "date": "October 30, 2012",
-            "boss": "Empress Shek'zeer",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Empress Shek'zeer",
             "guild": "Blood Legion",
             "region": "US",
             "date": "November 11, 2012",
@@ -420,11 +420,11 @@
         "raid": {
             "name": "Terrace of Endless Spring",
             "date": "November 13, 2012",
-            "boss": "Sha of Fear",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Sha of Fear",
             "guild": "Method",
             "region": "EU",
             "date": "November 25, 2012",
@@ -436,11 +436,11 @@
         "raid": {
             "name": "Throne of Thunder",
             "date": "March 5, 2013",
-            "boss": "Lei Shen",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Lei Shen",
             "guild": "Method",
             "region": "EU",
             "date": "March 26, 2013",
@@ -452,11 +452,11 @@
         "raid": {
             "name": "Siege of Orgrimmar",
             "date": "September 10, 2013",
-            "boss": "Garrosh Hellscream",
             "type": "Heroic",
             "players": 25
         },
         "kill": {
+            "boss": "Garrosh Hellscream",
             "guild": "Method",
             "region": "EU",
             "date": "October 1, 2013",
@@ -468,11 +468,11 @@
         "raid": {
             "name": "Highmaul",
             "date": "December 2, 2014",
-            "boss": "Imperator Mar'gok",
             "type": "Mythic",
             "players": 20
         },
         "kill": {
+            "boss": "Imperator Mar'gok",
             "guild": "Paragon",
             "region": "EU",
             "date": "December 12, 2014",
@@ -484,11 +484,11 @@
         "raid": {
             "name": "Blackrock Foundry",
             "date": "February 3, 2015",
-            "boss": "Blackhand",
             "type": "Mythic",
             "players": 20
         },
         "kill": {
+            "boss": "Blackhand",
             "guild": "Method",
             "region": "EU",
             "date": "February 20, 2015",
@@ -500,11 +500,11 @@
         "raid": {
             "name": "Hellfire Citadel",
             "date": "June 23, 2015",
-            "boss": "Archimonde",
             "type": "Mythic",
             "players": 20
         },
         "kill": {
+            "boss": "Archimonde",
             "guild": "Method",
             "region": "EU",
             "date": "July 16, 2015",
@@ -516,11 +516,11 @@
         "raid": {
             "name": "Emerald Nightmare",
             "date": "September 20, 2016",
-            "boss": "Xavius",
             "type": "Mythic",
             "players": 20
         },
         "kill": {
+            "boss": "Xavius",
             "guild": "Exorsus",
             "region": "EU",
             "date": "September 29, 2016",
@@ -532,11 +532,11 @@
         "raid": {
             "name": "Trial of Valor",
             "date": "November 8, 2016",
-            "boss": "Helya",
             "type": "Mythic",
             "players": 20
         },
         "kill": {
+            "boss": "Helya",
             "guild": "Method",
             "region": "EU",
             "date": "November 18, 2016",
@@ -548,11 +548,11 @@
         "raid": {
             "name": "The Nighthold",
             "date": "January 18, 2017",
-            "boss": "Gul'dan",
             "type": "Mythic",
             "players": 20
         },
         "kill": {
+            "boss": "Gul'dan",
             "guild": "Exorsus",
             "region": "EU",
             "date": "February 4, 2017",
@@ -564,11 +564,11 @@
         "raid": {
             "name": "Tomb of Sargeras",
             "date": "June 20, 2017",
-            "boss": "Kil'jaeden",
             "type": "Mythic",
             "players": 20
         },
         "kill": {
+            "boss": "Kil'jaeden",
             "guild": "Method",
             "region": "EU",
             "date": "July 16, 2017",
@@ -580,11 +580,11 @@
         "raid": {
             "name": "Antorus, the Burning Throne",
             "date": "November 28, 2017",
-            "boss": "Argus the Unmaker",
             "type": "Mythic",
             "players": 20
         },
         "kill": {
+            "boss": "Argus the Unmaker",
             "guild": "Method",
             "region": "EU",
             "date": "December 13, 2017",
@@ -596,11 +596,11 @@
         "raid": {
             "name": "Uldir",
             "date": "September 11, 2018",
-            "boss": "G'hunn",
             "type": "Mythic",
             "players": 20
         },
         "kill": {
+            "boss": "G'hunn",
             "guild": "Method",
             "region": "EU",
             "date": "September 19, 2018",
@@ -612,11 +612,11 @@
         "raid": {
             "name": "Battle of Dazar'alor",
             "date": "January 29, 2019",
-            "boss": "Lady Jaina Proudmoore",
             "type": "Mythic",
             "players": 20
         },
         "kill": {
+            "boss": "Lady Jaina Proudmoore",
             "guild": "Method",
             "region": "EU",
             "date": "February 5, 2019",
