@@ -1,0 +1,77 @@
+[
+    {
+        "name": "World of Warcraft",
+        "raids": [
+            {
+                "name": "Onyxia's Lair",
+                "date": "November 23, 2004",
+                "type": "Normal",
+                "players": 40,
+                "boss": "Onyxia",
+                "background": "onyxias-lair-small.jpg",
+                "kill": {
+                    "guild": "The Chosen",
+                    "region": "KR",
+                    "date": "January 28, 2005",
+                    "daysLived": 69
+                }
+            },
+            {
+                "name": "Molten Core",
+                "date": "November 23, 2004",
+                "type": "Normal",
+                "players": 40,
+                "boss": "Ragnaros",
+                "background": "molten-core-small.jpg",
+                "kill": {
+                    "guild": "Ascent",
+                    "region": "US",
+                    "date": "April 25, 2005",
+                    "daysLived": 154
+                }
+            },
+            {
+                "name": "Blackwing Lair",
+                "date": "July 12, 2005",
+                "type": "Normal",
+                "players": 40,
+                "boss": "Nefarian",
+                "background": "blackwing-lair-small.jpg",
+                "kill": {
+                    "guild": "Drama",
+                    "region": "US",
+                    "date": "September 26, 2005",
+                    "daysLived": 77
+                }
+            },
+            {
+                "name": "Temple of Ahn'Qiraj",
+                "date": "January 3, 2006",
+                "type": "Normal",
+                "players": 40,
+                "boss": "C'thun",
+                "background": "ahnqiraj-temple-small.jpg",
+                "kill": {
+                    "guild": "Nihilum",
+                    "region": "EU",
+                    "date": "April 25, 2006",
+                    "daysLived": 113
+                }
+            },
+            {
+                "name": "Naxxramas",
+                "date": "June 20, 2006",
+                "type": "Normal",
+                "players": 40,
+                "boss": "Kel'thuzad",
+                "background": "naxxramas-small.jpg",
+                "kill": {
+                    "guild": "Nihilum",
+                    "region": "EU",
+                    "date": "September 7, 2006",
+                    "daysLived": 90
+                }
+            }
+        ]
+    }
+]
