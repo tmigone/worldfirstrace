@@ -5,12 +5,6 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    expansions: require('../data-new.json')
-  },
-  mutations: {
-
-  },
-  actions: {
-
+    expansions: require('../data.json')
   }
 })
