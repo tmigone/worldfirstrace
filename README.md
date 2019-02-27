@@ -1,29 +1,5 @@
 # worldfirstrace
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Every few months Blizzard releases a new raid tier for World of Warcraft. 
+A handful of professional raiding guilds race to kill the last boss of the raid and earn a prestigious award: the world first achievement.
+[worldfirstrace](https://worldfirstrace.now.sh) provides statistics and historical data on world first races.
