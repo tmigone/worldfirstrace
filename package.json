@@ -5,7 +5,9 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "cp now.json dist/now.json && cd dist && now",
+    "alias": "now alias"
   },
   "dependencies": {
     "vue": "^2.5.22",
