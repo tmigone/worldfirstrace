@@ -3,7 +3,7 @@
     <v-card>
       <img :src="'./raids/' + raid.background">
       <v-card-title>
-        <span class="raidName">{{ raid.name }}&nbsp;&nbsp;</span>
+        <span class="raidName">{{ raid.name }}&nbsp;</span>
         <span class="grey--text">{{ raid.type + ' ' + raid.players }}</span>
         <br>
         <span>{{ raid.date }} - {{ raid.kill.date }}</span>
@@ -13,15 +13,22 @@
         </span>
       </v-card-title>
       <v-card-actions>
-        <v-btn flat>{{ raid.kill.guild }} ({{ raid.kill.region }})</v-btn>
+        <v-btn
+          flat
+          :color="guildToColor(raid.kill.guild)"
+        >{{ raid.kill.guild }} ({{ raid.kill.region }})</v-btn>
       </v-card-actions>
     </v-card>
   </v-flex>
 </template>
 
 <script>
+import guild from '@/helpers/guilds.js'
 export default {
-  props: ['raid']
+  props: ['raid'],
+  methods: {
+    guildToColor: guild.color,
+  }
 }
 </script>
 
@@ -39,9 +46,10 @@ export default {
 .v-card__title {
   padding-bottom: 0px;
   text-align: left;
+  display: block;
 }
 .raidName {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
 }
 .raidLived {
