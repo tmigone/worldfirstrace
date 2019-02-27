@@ -1,626 +1,588 @@
 [
     {
-        "expansion": "Vanilla",
-        "raid": {
-            "name": "Onyxia's Lair",
-            "date": "November 23, 2004",
-            "type": "Normal",
-            "players": 40
-        },
-        "kill": {
-            "boss": "Onyxia",
-            "guild": "The Chosen",
-            "region": "KR",
-            "date": "January 28, 2005",
-            "daysLived": 69
-        }
+        "name": "Battle for Azeroth",
+        "raids": [
+            {
+                "name": "Uldir",
+                "date": "September 11, 2018",
+                "type": "Mythic",
+                "players": 20,
+                "boss": "G'hunn",
+                "background": "uldir-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "September 19, 2018",
+                    "daysLived": 8
+                }
+            },
+            {
+                "name": "Battle of Dazar'alor",
+                "date": "January 29, 2019",
+                "type": "Mythic",
+                "players": 20,
+                "boss": "Lady Jaina Proudmoore",
+                "background": "battle-of-dazaralor-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "February 5, 2019",
+                    "daysLived": 7
+                }
+            }
+        ]
     },
     {
-        "expansion": "Vanilla",
-        "raid": {
-            "name": "Molten Core",
-            "date": "November 23, 2004",
-            "type": "Normal",
-            "players": 40
-        },
-        "kill": {
-            "boss": "Ragnaros",
-            "guild": "Ascent",
-            "region": "US",
-            "date": "April 25, 2005",
-            "daysLived": 154
-        }
+        "name": "Legion",
+        "raids": [
+            {
+                "name": "Emerald Nightmare",
+                "date": "September 20, 2016",
+                "type": "Mythic",
+                "players": 20,
+                "boss": "Xavius",
+                "background": "the-emerald-nightmare-small.jpg",
+                "kill": {
+                    "guild": "Exorsus",
+                    "region": "EU",
+                    "date": "September 29, 2016",
+                    "daysLived": 1
+                }
+            },
+            {
+                "name": "Trial of Valor",
+                "date": "November 8, 2016",
+                "type": "Mythic",
+                "players": 20,
+                "boss": "Helya",
+                "background": "trial-of-valor-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "November 18, 2016",
+                    "daysLived": 3
+                }
+            },
+            {
+                "name": "The Nighthold",
+                "date": "January 18, 2017",
+                "type": "Mythic",
+                "players": 20,
+                "boss": "Gul'dan",
+                "background": "the-nighthold-small.jpg",
+                "kill": {
+                    "guild": "Exorsus",
+                    "region": "EU",
+                    "date": "February 4, 2017",
+                    "daysLived": 11
+                }
+            },
+            {
+                "name": "Tomb of Sargeras",
+                "date": "June 20, 2017",
+                "type": "Mythic",
+                "players": 20,
+                "boss": "Kil'jaeden",
+                "background": "tomb-of-sargeras-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "July 16, 2017",
+                    "daysLived": 19
+                }
+            },
+            {
+                "name": "Antorus, the Burning Throne",
+                "date": "November 28, 2017",
+                "type": "Mythic",
+                "players": 20,
+                "boss": "Argus the Unmaker",
+                "background": "antorus-the-burning-throne-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "December 13, 2017",
+                    "daysLived": 8
+                }
+            }
+        ]
     },
     {
-        "expansion": "Vanilla",
-        "raid": {
-            "name": "Blackwing Lair",
-            "date": "July 12, 2005",
-            "type": "Normal",
-            "players": 40
-        },
-        "kill": {
-            "boss": "Nefarian",
-            "guild": "Drama",
-            "region": "US",
-            "date": "September 26, 2005",
-            "daysLived": 77
-        }
+        "name": "Warlords of Draenor",
+        "raids": [
+            {
+                "name": "Highmaul",
+                "date": "December 2, 2014",
+                "type": "Mythic",
+                "boss": "Imperator Mar'gok",
+                "players": 20,
+                "background": "highmaul-small.jpg",
+                "kill": {
+                    "guild": "Paragon",
+                    "region": "EU",
+                    "date": "December 12, 2014",
+                    "daysLived": 4
+                }
+            },
+            {
+                "name": "Blackrock Foundry",
+                "date": "February 3, 2015",
+                "type": "Mythic",
+                "boss": "Blackhand",
+                "players": 20,
+                "background": "blackrock-foundry-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "February 20, 2015",
+                    "daysLived": 10
+                }
+            },
+            {
+                "name": "Hellfire Citadel",
+                "date": "June 23, 2015",
+                "type": "Mythic",
+                "boss": "Archimonde",
+                "players": 20,
+                "background": "hellfire-citadel-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "July 16, 2015",
+                    "daysLived": 16
+                }
+            }
+        ]
     },
     {
-        "expansion": "Vanilla",
-        "raid": {
-            "name": "The Temple of Ahn'Qiraj",
-            "date": "January 3, 2006",
-            "type": "Normal",
-            "players": 40
-        },
-        "kill": {
-            "boss": "C'thun",
-            "guild": "Nihilum",
-            "region": "EU",
-            "date": "April 25, 2006",
-            "daysLived": 113
-        }
+        "name": "Mists of Pandaria",
+        "raids": [
+            {
+                "name": "Mogu'shan Vaults",
+                "date": "October 2, 2012",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Will of the Emperor",
+                "background": "mogushan-vaults-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "October 10, 2012",
+                    "daysLived": 3
+                }
+            },
+            {
+                "name": "Heart of Fear",
+                "date": "October 30, 2012",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Empress Shek'zeer",
+                "background": "heart-of-fear-small.jpg",
+                "kill": {
+                    "guild": "Blood Legion",
+                    "region": "US",
+                    "date": "November 11, 2012",
+                    "daysLived": 5
+                }
+            },
+            {
+                "name": "Terrace of Endless Spring",
+                "date": "November 13, 2012",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Sha of Fear",
+                "background": "terrace-of-endless-spring-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "November 25, 2012",
+                    "daysLived": 5
+                }
+            },
+            {
+                "name": "Throne of Thunder",
+                "date": "March 5, 2013",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Lei Shen",
+                "background": "throne-of-thunder-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "March 26, 2013",
+                    "daysLived": 14
+                }
+            },
+            {
+                "name": "Siege of Orgrimmar",
+                "date": "September 10, 2013",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Garrosh Hellscream",
+                "background": "siege-of-orgrimmar-small.jpg",
+                "kill": {
+                    "guild": "Method",
+                    "region": "EU",
+                    "date": "October 1, 2013",
+                    "daysLived": 14
+                }
+            }
+        ]
     },
     {
-        "expansion": "Vanilla",
-        "raid": {
-            "name": "Naxxramas",
-            "date": "June 20, 2006",
-            "type": "Normal",
-            "players": 40
-        },
-        "kill": {
-            "boss": "Kel'thuzad",
-            "guild": "Nihilum",
-            "region": "EU",
-            "date": "September 7, 2006",
-            "daysLived": 90
-        }
+        "name": "Cataclysm",
+        "raids": [
+            {
+                "name": "Blackwing Descent",
+                "date": "December 7, 2010",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Nefarian",
+                "background": "blackwing-descent-small.jpg",
+                "kill": {
+                    "guild": "Paragon",
+                    "region": "EU",
+                    "date": "January 9, 2011",
+                    "daysLived": 27
+                }
+            },
+            {
+                "name": "Bastion of Twilight",
+                "date": "December 7, 2010",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Sinestra",
+                "background": "the-bastion-of-twilight-small.jpg",
+                "kill": {
+                    "guild": "Paragon",
+                    "region": "EU",
+                    "date": "January 20, 2011",
+                    "daysLived": 38
+                }
+            },
+            {
+                "name": "Throne of the Four Winds",
+                "date": "December 7, 2010",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Al'Akir",
+                "background": "throne-of-the-four-winds-small.jpg",
+                "kill": {
+                    "guild": "Paragon",
+                    "region": "EU",
+                    "date": "January 24, 2011",
+                    "daysLived": 42
+                }
+            },
+            {
+                "name": "Firelands",
+                "date": "June 28, 2011",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Ragnaros",
+                "background": "firelands-small.jpg",
+                "kill": {
+                    "guild": "Paragon",
+                    "region": "EU",
+                    "date": "July 19, 2011",
+                    "daysLived": 14
+                }
+            },
+            {
+                "name": "Dragon Soul",
+                "date": "November 29, 2011",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Madness of Deathwing",
+                "background": "dragon-soul-small.jpg",
+                "kill": {
+                    "guild": "KIN Raiders",
+                    "region": "KR",
+                    "date": "December 20, 2011",
+                    "daysLived": 14
+                }
+            }
+        ]
     },
     {
-        "expansion": "The Burning Crusade",
-        "raid": {
-            "name": "Gruul's Lair",
-            "date": "January 16, 2007",
-            "type": "Normal",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Gruul",
-            "guild": "Nihilum",
-            "region": "EU",
-            "date": "February 3, 2007",
-            "daysLived": 19
-        }
+        "name": "Wrath of the Lich King",
+        "raids": [
+            {
+                "name": "Naxxramas",
+                "date": "November 13, 2008",
+                "type": "Normal",
+                "players": 25,
+                "boss": "Kel'thuzad",
+                "background": "naxxramas-small.jpg",
+                "kill": {
+                    "guild": "Ensidia",
+                    "region": "EU",
+                    "date": "November 15, 2008",
+                    "daysLived": 3
+                }
+            },
+            {
+                "name": "Obsidian Sanctum",
+                "date": "November 13, 2008",
+                "type": "Hardmode",
+                "players": 25,
+                "boss": "Sartharion",
+                "background": "the-obsidian-sanctum-small.jpg",
+                "kill": {
+                    "guild": "Ensidia",
+                    "region": "EU",
+                    "date": "November 21, 2008",
+                    "daysLived": 9
+                }
+            },
+            {
+                "name": "Eye of Eternity",
+                "date": "November 13, 2008",
+                "type": "Normal",
+                "players": 25,
+                "boss": "Malygos",
+                "background": "the-eye-of-eternity-small.jpg",
+                "kill": {
+                    "guild": "Ensidia",
+                    "region": "EU",
+                    "date": "November 15, 2008",
+                    "daysLived": 3
+                }
+            },
+            {
+                "name": "Ulduar",
+                "date": "April 14, 2009",
+                "type": "Hardmode",
+                "players": 25,
+                "boss": "Yogg-Saron +0",
+                "background": "ulduar-small.jpg",
+                "kill": {
+                    "guild": "Stars",
+                    "region": "TW",
+                    "date": "July 7, 2009",
+                    "daysLived": 85
+                }
+            },
+            {
+                "name": "Trial of the Crusader",
+                "date": "August 4, 2009",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Anub'arak",
+                "background": "trial-of-the-crusader-small.jpg",
+                "kill": {
+                    "guild": "Paragon",
+                    "region": "EU",
+                    "date": "September 7, 2009",
+                    "daysLived": 7
+                }
+            },
+            {
+                "name": "Icecrown Citadel",
+                "date": "December 8, 2009",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "The Lich King",
+                "background": "icecrown-citadel-small.jpg",
+                "kill": {
+                    "guild": "Paragon",
+                    "region": "EU",
+                    "date": "March 26, 2010",
+                    "daysLived": 46
+                }
+            },
+            {
+                "name": "Ruby Sanctum",
+                "date": "June 30, 2010",
+                "type": "Heroic",
+                "players": 25,
+                "boss": "Halion",
+                "background": "the-ruby-sanctum-small.jpg",
+                "kill": {
+                    "guild": "Premonition",
+                    "region": "US",
+                    "date": "June 30, 2010",
+                    "daysLived": 1
+                }
+            }
+        ]
     },
     {
-        "expansion": "The Burning Crusade",
-        "raid": {
-            "name": "Magtheridon's Lair",
-            "date": "January 16, 2007",
-            "type": "Normal",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Magtheridon",
-            "guild": "Nihilum",
-            "region": "EU",
-            "date": "February 24, 2007",
-            "daysLived": 40
-        }
+        "name": "The Burning Crusade",
+        "raids": [
+            {
+                "name": "Gruul's Lair",
+                "date": "January 16, 2007",
+                "type": "Normal",
+                "players": 25,
+                "boss": "Gruul",
+                "background": "gruuls-lair-small.jpg",
+                "kill": {
+                    "guild": "Nihilum",
+                    "region": "EU",
+                    "date": "February 3, 2007",
+                    "daysLived": 19
+                }
+            },
+            {
+                "name": "Magtheridon's Lair",
+                "date": "January 16, 2007",
+                "type": "Normal",
+                "players": 25,
+                "boss": "Magtheridon",
+                "background": "magtheridons-lair-small.jpg",
+                "kill": {
+                    "guild": "Nihilum",
+                    "region": "EU",
+                    "date": "February 24, 2007",
+                    "daysLived": 40
+                }
+            },
+            {
+                "name": "Serpentshrine Cavern",
+                "date": "January 16, 2007",
+                "type": "Normal",
+                "players": 25,
+                "boss": "Lady Vashj",
+                "background": "serpentshrine-cavern-small.jpg",
+                "kill": {
+                    "guild": "Nihilum",
+                    "region": "EU",
+                    "date": "March 29, 2007",
+                    "daysLived": 73
+                }
+            },
+            {
+                "name": "Tempest Keep",
+                "date": "January 16, 2007",
+                "type": "Normal",
+                "players": 25,
+                "boss": "Kael'Thas",
+                "background": "tempest-keep-small.jpg",
+                "kill": {
+                    "guild": "Nihilum",
+                    "region": "EU",
+                    "date": "May 25, 2007",
+                    "daysLived": 130
+                }
+            },
+            {
+                "name": "Battle for Mount Hyjal",
+                "date": "May 22, 2007",
+                "type": "Normal",
+                "players": 25,
+                "boss": "Archimonde",
+                "background": "the-battle-for-mount-hyjal-small.jpg",
+                "kill": {
+                    "guild": "Nihilum",
+                    "region": "EU",
+                    "date": "June 9, 2007",
+                    "daysLived": 26
+                }
+            },
+            {
+                "name": "Black Temple",
+                "date": "May 22, 2007",
+                "type": "Normal",
+                "players": 25,
+                "boss": "Illidan Stormrage",
+                "background": "black-temple-small.jpg",
+                "kill": {
+                    "guild": "Nihilum",
+                    "region": "EU",
+                    "date": "June 5, 2007",
+                    "daysLived": 21
+                }
+            },
+            {
+                "name": "Sunwell Plateau",
+                "date": "March 25, 2008",
+                "type": "Normal",
+                "players": 25,
+                "boss": "Kil'jaeden",
+                "background": "the-sunwell-small.jpg",
+                "kill": {
+                    "guild": "SK Gaming",
+                    "region": "EU",
+                    "date": "May 25, 2008",
+                    "daysLived": 62
+                }
+            }
+        ]
     },
     {
-        "expansion": "The Burning Crusade",
-        "raid": {
-            "name": "Serpentshrine Cavern",
-            "date": "January 16, 2007",
-            "type": "Normal",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Lady Vashj",
-            "guild": "Nihilum",
-            "region": "EU",
-            "date": "March 29, 2007",
-            "daysLived": 73
-        }
-    },
-    {
-        "expansion": "The Burning Crusade",
-        "raid": {
-            "name": "Tempest Keep: The Eye",
-            "date": "January 16, 2007",
-            "type": "Normal",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Kael'Thas",
-            "guild": "Nihilum",
-            "region": "EU",
-            "date": "May 25, 2007",
-            "daysLived": 130
-        }
-    },
-    {
-        "expansion": "The Burning Crusade",
-        "raid": {
-            "name": "Battle for Mount Hyjal",
-            "date": "May 22, 2007",
-            "type": "Normal",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Archimonde",
-            "guild": "Nihilum",
-            "region": "EU",
-            "date": "June 9, 2007",
-            "daysLived": 26
-        }
-    },
-    {
-        "expansion": "The Burning Crusade",
-        "raid": {
-            "name": "Black Temple",
-            "date": "May 22, 2007",
-            "type": "Normal",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Illidan Stormrage",
-            "guild": "Nihilum",
-            "region": "EU",
-            "date": "June 5, 2007",
-            "daysLived": 21
-        }
-    },
-    {
-        "expansion": "The Burning Crusade",
-        "raid": {
-            "name": "Sunwell Plateau",
-            "date": "March 25, 2008",
-            "type": "Normal",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Kil'jaeden",
-            "guild": "SK Gaming",
-            "region": "EU",
-            "date": "May 25, 2008",
-            "daysLived": 62
-        }
-    },
-    {
-        "expansion": "Wrath of the Lich King",
-        "raid": {
-            "name": "Naxxramas",
-            "date": "November 13, 2008",
-            "type": "Normal",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Kel'thuzad",
-            "guild": "Ensidia",
-            "region": "EU",
-            "date": "November 15, 2008",
-            "daysLived": 3
-        }
-    },
-    {
-        "expansion": "Wrath of the Lich King",
-        "raid": {
-            "name": "Obsidian Sanctum",
-            "date": "November 13, 2008",
-            "type": "Hardmode",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Sartharion",
-            "guild": "Ensidia",
-            "region": "EU",
-            "date": "November 21, 2008",
-            "daysLived": 9
-        }
-    },
-    {
-        "expansion": "Wrath of the Lich King",
-        "raid": {
-            "name": "Eye of Eternity",
-            "date": "November 13, 2008",
-            "type": "Normal",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Malygos",
-            "guild": "Ensidia",
-            "region": "EU",
-            "date": "November 15, 2008",
-            "daysLived": 3
-        }
-    },
-    {
-        "expansion": "Wrath of the Lich King",
-        "raid": {
-            "name": "Ulduar",
-            "date": "April 14, 2009",
-            "type": "Hardmode",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Yogg-Saron +0",
-            "guild": "Stars",
-            "region": "TW",
-            "date": "July 7, 2009",
-            "daysLived": 85
-        }
-    },
-    {
-        "expansion": "Wrath of the Lich King",
-        "raid": {
-            "name": "Trial of the Grand Crusader",
-            "date": "August 4, 2009",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Anub'arak",
-            "guild": "Paragon",
-            "region": "EU",
-            "date": "September 7, 2009",
-            "daysLived": 7
-        }
-    },
-    {
-        "expansion": "Wrath of the Lich King",
-        "raid": {
-            "name": "Icecrown Citadel",
-            "date": "December 8, 2009",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "The Lich King",
-            "guild": "Paragon",
-            "region": "EU",
-            "date": "March 26, 2010",
-            "daysLived": 46
-        }
-    },
-    {
-        "expansion": "Wrath of the Lich King",
-        "raid": {
-            "name": "Ruby Sanctum",
-            "date": "June 30, 2010",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Halion",
-            "guild": "Premonition",
-            "region": "US",
-            "date": "June 30, 2010",
-            "daysLived": 1
-        }
-    },
-    {
-        "expansion": "Cataclysm",
-        "raid": {
-            "name": "Blackwing Descent",
-            "date": "December 7, 2010",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Nefarian",
-            "guild": "Paragon",
-            "region": "EU",
-            "date": "January 9, 2011",
-            "daysLived": 27
-        }
-    },
-    {
-        "expansion": "Cataclysm",
-        "raid": {
-            "name": "Bastion of Twilight",
-            "date": "December 7, 2010",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Sinestra",
-            "guild": "Paragon",
-            "region": "EU",
-            "date": "January 20, 2011",
-            "daysLived": 38
-        }
-    },
-    {
-        "expansion": "Cataclysm",
-        "raid": {
-            "name": "Throne of the Four Winds",
-            "date": "December 7, 2010",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Al'Akir",
-            "guild": "Paragon",
-            "region": "EU",
-            "date": "January 24, 2011",
-            "daysLived": 42
-        }
-    },
-    {
-        "expansion": "Cataclysm",
-        "raid": {
-            "name": "Firelands",
-            "date": "June 28, 2011",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Ragnaros",
-            "guild": "Paragon",
-            "region": "EU",
-            "date": "July 19, 2011",
-            "daysLived": 14
-        }
-    },
-    {
-        "expansion": "Cataclysm",
-        "raid": {
-            "name": "Dragon Soul",
-            "date": "November 29, 2011",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Madness of Deathwing",
-            "guild": "KIN Raiders",
-            "region": "KR",
-            "date": "December 20, 2011",
-            "daysLived": 14
-        }
-    },
-    {
-        "expansion": "Mists of Pandaria",
-        "raid": {
-            "name": "Mogu'shan Vaults",
-            "date": "October 2, 2012",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Will of the Emperor",
-            "guild": "Method",
-            "region": "EU",
-            "date": "October 10, 2012",
-            "daysLived": 3
-        }
-    },
-    {
-        "expansion": "Mists of Pandaria",
-        "raid": {
-            "name": "Heart of Fear",
-            "date": "October 30, 2012",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Empress Shek'zeer",
-            "guild": "Blood Legion",
-            "region": "US",
-            "date": "November 11, 2012",
-            "daysLived": 5
-        }
-    },
-    {
-        "expansion": "Mists of Pandaria",
-        "raid": {
-            "name": "Terrace of Endless Spring",
-            "date": "November 13, 2012",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Sha of Fear",
-            "guild": "Method",
-            "region": "EU",
-            "date": "November 25, 2012",
-            "daysLived": 5
-        }
-    },
-    {
-        "expansion": "Mists of Pandaria",
-        "raid": {
-            "name": "Throne of Thunder",
-            "date": "March 5, 2013",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Lei Shen",
-            "guild": "Method",
-            "region": "EU",
-            "date": "March 26, 2013",
-            "daysLived": 14
-        }
-    },
-    {
-        "expansion": "Mists of Pandaria",
-        "raid": {
-            "name": "Siege of Orgrimmar",
-            "date": "September 10, 2013",
-            "type": "Heroic",
-            "players": 25
-        },
-        "kill": {
-            "boss": "Garrosh Hellscream",
-            "guild": "Method",
-            "region": "EU",
-            "date": "October 1, 2013",
-            "daysLived": 14
-        }
-    },
-    {
-        "expansion": "Warlords of Draenor",
-        "raid": {
-            "name": "Highmaul",
-            "date": "December 2, 2014",
-            "type": "Mythic",
-            "players": 20
-        },
-        "kill": {
-            "boss": "Imperator Mar'gok",
-            "guild": "Paragon",
-            "region": "EU",
-            "date": "December 12, 2014",
-            "daysLived": 4
-        }
-    },
-    {
-        "expansion": "Warlords of Draenor",
-        "raid": {
-            "name": "Blackrock Foundry",
-            "date": "February 3, 2015",
-            "type": "Mythic",
-            "players": 20
-        },
-        "kill": {
-            "boss": "Blackhand",
-            "guild": "Method",
-            "region": "EU",
-            "date": "February 20, 2015",
-            "daysLived": 10
-        }
-    },
-    {
-        "expansion": "Warlords of Draenor",
-        "raid": {
-            "name": "Hellfire Citadel",
-            "date": "June 23, 2015",
-            "type": "Mythic",
-            "players": 20
-        },
-        "kill": {
-            "boss": "Archimonde",
-            "guild": "Method",
-            "region": "EU",
-            "date": "July 16, 2015",
-            "daysLived": 16
-        }
-    },
-    {
-        "expansion": "Legion",
-        "raid": {
-            "name": "Emerald Nightmare",
-            "date": "September 20, 2016",
-            "type": "Mythic",
-            "players": 20
-        },
-        "kill": {
-            "boss": "Xavius",
-            "guild": "Exorsus",
-            "region": "EU",
-            "date": "September 29, 2016",
-            "daysLived": 1
-        }
-    },
-    {
-        "expansion": "Legion",
-        "raid": {
-            "name": "Trial of Valor",
-            "date": "November 8, 2016",
-            "type": "Mythic",
-            "players": 20
-        },
-        "kill": {
-            "boss": "Helya",
-            "guild": "Method",
-            "region": "EU",
-            "date": "November 18, 2016",
-            "daysLived": 3
-        }
-    },
-    {
-        "expansion": "Legion",
-        "raid": {
-            "name": "The Nighthold",
-            "date": "January 18, 2017",
-            "type": "Mythic",
-            "players": 20
-        },
-        "kill": {
-            "boss": "Gul'dan",
-            "guild": "Exorsus",
-            "region": "EU",
-            "date": "February 4, 2017",
-            "daysLived": 11
-        }
-    },
-    {
-        "expansion": "Legion",
-        "raid": {
-            "name": "Tomb of Sargeras",
-            "date": "June 20, 2017",
-            "type": "Mythic",
-            "players": 20
-        },
-        "kill": {
-            "boss": "Kil'jaeden",
-            "guild": "Method",
-            "region": "EU",
-            "date": "July 16, 2017",
-            "daysLived": 19
-        }
-    },
-    {
-        "expansion": "Legion",
-        "raid": {
-            "name": "Antorus, the Burning Throne",
-            "date": "November 28, 2017",
-            "type": "Mythic",
-            "players": 20
-        },
-        "kill": {
-            "boss": "Argus the Unmaker",
-            "guild": "Method",
-            "region": "EU",
-            "date": "December 13, 2017",
-            "daysLived": 8
-        }
-    },
-    {
-        "expansion": "Battle for Azeroth",
-        "raid": {
-            "name": "Uldir",
-            "date": "September 11, 2018",
-            "type": "Mythic",
-            "players": 20
-        },
-        "kill": {
-            "boss": "G'hunn",
-            "guild": "Method",
-            "region": "EU",
-            "date": "September 19, 2018",
-            "daysLived": 8
-        }
-    },
-    {
-        "expansion": "Battle for Azeroth",
-        "raid": {
-            "name": "Battle of Dazar'alor",
-            "date": "January 29, 2019",
-            "type": "Mythic",
-            "players": 20
-        },
-        "kill": {
-            "boss": "Lady Jaina Proudmoore",
-            "guild": "Method",
-            "region": "EU",
-            "date": "February 5, 2019",
-            "daysLived": 7
-        }
+        "name": "World of Warcraft",
+        "raids": [
+            {
+                "name": "Onyxia's Lair",
+                "date": "November 23, 2004",
+                "type": "Normal",
+                "players": 40,
+                "boss": "Onyxia",
+                "background": "onyxias-lair-small.jpg",
+                "kill": {
+                    "guild": "The Chosen",
+                    "region": "KR",
+                    "date": "January 28, 2005",
+                    "daysLived": 69
+                }
+            },
+            {
+                "name": "Molten Core",
+                "date": "November 23, 2004",
+                "type": "Normal",
+                "players": 40,
+                "boss": "Ragnaros",
+                "background": "molten-core-small.jpg",
+                "kill": {
+                    "guild": "Ascent",
+                    "region": "US",
+                    "date": "April 25, 2005",
+                    "daysLived": 154
+                }
+            },
+            {
+                "name": "Blackwing Lair",
+                "date": "July 12, 2005",
+                "type": "Normal",
+                "players": 40,
+                "boss": "Nefarian",
+                "background": "blackwing-lair-small.jpg",
+                "kill": {
+                    "guild": "Drama",
+                    "region": "US",
+                    "date": "September 26, 2005",
+                    "daysLived": 77
+                }
+            },
+            {
+                "name": "Temple of Ahn'Qiraj",
+                "date": "January 3, 2006",
+                "type": "Normal",
+                "players": 40,
+                "boss": "C'thun",
+                "background": "ahnqiraj-temple-small.jpg",
+                "kill": {
+                    "guild": "Nihilum",
+                    "region": "EU",
+                    "date": "April 25, 2006",
+                    "daysLived": 113
+                }
+            },
+            {
+                "name": "Naxxramas",
+                "date": "June 20, 2006",
+                "type": "Normal",
+                "players": 40,
+                "boss": "Kel'thuzad",
+                "background": "naxxramas-small.jpg",
+                "kill": {
+                    "guild": "Nihilum",
+                    "region": "EU",
+                    "date": "September 7, 2006",
+                    "daysLived": 90
+                }
+            }
+        ]
     }
 ]
